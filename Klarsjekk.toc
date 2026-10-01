@@ -1,0 +1,8 @@
+## Interface: 16001, 20506, 11507
+## Title: |cff7fd17fKlar|r-sjekk
+## Notes: En liten knapp som passer på at du har med deg det du trenger før PvP. Dra ting og spells inn i lista; knappen lyser rolig når noe mangler og du står i kø eller er i en BG.
+## Author: Daniel
+## Version: 1.0.0
+## SavedVariablesPerCharacter: KlarsjekkDB
+
+Klarsjekk.lua

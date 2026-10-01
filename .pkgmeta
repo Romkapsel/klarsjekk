@@ -1,0 +1,5 @@
+package-as: Klarsjekk
+
+ignore:
+  - README.md
+  - .github
